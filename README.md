@@ -16,8 +16,19 @@ We use the Ultimaker Cura software for printing. There you only need 2 steps:
 <img src="https://user-images.githubusercontent.com/82590951/185628026-55f0e1e7-80df-4941-8b28-101c5e1660b2.png" width="300" height="200" />
 2. Select all patches that need to be merged -> Right click and select merge models. They should snap together.
 <img src="https://user-images.githubusercontent.com/82590951/185628018-71d602d0-4283-4541-836d-f150d90c92a8.png" width="400" height="200" />
-3. 3D print the structure (We recomment to use a TPU brim
-with brim ALSO in the inside, because the PLA sticks more to the blue tape and this reduces breaking parts)
+3. 3D print the structure
+
+
+## Print information
+
+1. The top surface parts and the corresponding bottom part get printed seperately and need to be glued together
+2. We recomment to use a TPU brim with the brim ALSO on the inside, because the PLA sticks more to the blue tape and this reduces breaking parts
+3. Let the print cool enough, otherwise the PLA might deform while removing the print
+
+## Glueing information
+
+1. The parts are designed such that it is possible to add the granulate BEFORE the glue. This way the granulate soaks up the glue and it does not stick together parts that shouldn't be connected.
+2. Be careful with the glue, your hands stick immediately to the surface! We recomment using a metal pin or something that doesn't glue immediately for the case that you need to replace or press down something while gluing.
 
 ## Material Information
 
