@@ -12,8 +12,8 @@ Note that the patches consist not only of the top surface, but also a bottom par
 ## Setting Up &amp; Combining 3D Models
 
 We use the Ultimaker Cura software for printing. There you only need 2 steps:  
-1. Select the right material for each part of the patch on the left side (IMAGE)
-2. Select all patches that need to be merged --> Right click and select merge models (IMAGE)
+1. Select the right material for each part of the patch on the left side ![Images](Select_Color)
+2. Select all patches that need to be merged -> Right click and select merge models. They should snap together. ![Images](Merge)
 3. 3D print the structure (We recomment to use a TPU brim with brim ALSO in the inside, because the PLA sticks more to the blue tape and this reduces breaking parts)
 
 ## Material Information
