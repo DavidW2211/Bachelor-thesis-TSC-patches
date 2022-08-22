@@ -33,10 +33,10 @@ We use the Ultimaker Cura software for printing. There you only need 2 steps:
 ## Material Information
 
 For all the patches we used following resources:   
-1. Industrial glue + granulate (LINK)
+1. [Industrial glue + granulate](https://www.amazon.de/-/en/Industrial-Effective-All-Purpose-Waterproof-Heat-Resistant/dp/B01NCZFZOG/ref=sr_1_5?keywords=industriekleber&qid=1661181665&sprefix=industrie%2Caps%2C97&sr=8-5) (Accessed 22.08.2022)
 2. White 3D printed parts: [TPU 95A](https://www.igo3d.com/ultimaker-tpu-285-weiss-750) (Accessed 22.08.2022)
-3. Blue & black 3D printed parts: Ultimaker PLA (LINK)
-4. Jumper wires (LINK)
-5. Arduino Uno (LINK)
-6. Straightening SMAs (0.5 mm) (LINK)
-7. Springs (LINK)
+3. Blue & black 3D printed parts: [Ultimaker PLA](https://www.igo3d.com/ultimaker-3-pla) (Accessed 22.08.2022)
+4. [Jumper wires](https://www.amazon.de/AZDelivery-Jumper-Wire-Cable-Parent/dp/B07KKJ69DV/ref=sr_1_1_sspa?keywords=br%C3%BCckendraht+m%C3%A4nnlich&qid=1661181306&sprefix=jumper+w%2Caps%2C94&sr=8-1-spons&psc=1&smid=A1X7QLRQH87QA3&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExWVVTR0pWSElBOTVMJmVuY3J5cHRlZElkPUEwNTY1OTU5Mlc4S1c0WEM1SkIxWCZlbmNyeXB0ZWRBZElkPUEwNzg2NTcwMVgxTkpaS0xHUFROUiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) (Accessed 22.08.2022)
+5. [Arduino Uno](https://www.amazon.com/dp/B01EWOE0UU/ref=sr_1_2_sspa?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1C4FYOUBGT5BM&keywords=arduino+uno+r3&qid=1661181427&sprefix=arduino+uno+r%2Caps%2C217&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyRTI4MUVYQUJQQUpTJmVuY3J5cHRlZElkPUEwMjE0MTg1M0tQNExKTlUwUDlRRCZlbmNyeXB0ZWRBZElkPUEwNDgzODMzMUlIN1I4WVRSM0w1UiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) (Accessed 22.08.2022)
+6. [Straightening SMAs (0.5 mm)](https://www.ebay.de/itm/272744207192?_trkparms=amclksrc%3DITM%26aid%3D1110006%26algo%3DHOMESPLICE.SIM%26ao%3D1%26asc%3D20200818143230%26meid%3D8756667dcc0e49289656add78ea02dc2%26pid%3D101224%26rk%3D1%26rkt%3D2%26sd%3D273567764601%26itm%3D272744207192%26pmt%3D0%26noa%3D1%26pg%3D2047675%26algv%3DDefaultOrganicWeb&_trksid=p2047675.c101224.m-1) (Accessed 22.08.2022)
+7. [Springs (65°)](https://www.ebay.de/itm/273567764601?chn=ps&var=575427231816&norover=1&mkevt=1&mkrid=707-134425-41852-0&mkcid=2&itemid=575427231816_273567764601&targetid=1404115579173&device=c&mktype=pla&googleloc=1004896&poi=&campaignid=17935704717&mkgroupid=139162549385&rlsatarget=pla-1404115579173&abcId=9301059&merchantid=7364532&gclid=Cj0KCQjw0oyYBhDGARIsAMZEuMuVkPHRHqsgRvDC3RfehDmSxC5IyUCN7cTK6KzO_mhqoJfxeMrgXL8aAvvfEALw_wcB) (Accessed 22.08.2022)
