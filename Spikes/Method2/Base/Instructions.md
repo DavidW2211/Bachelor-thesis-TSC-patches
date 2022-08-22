@@ -20,5 +20,6 @@ Top            |  Front |   Whole patch | Actuated
 9. `Optional`: Solder 2 jumper wires to the SMA
 10. Stick the SMA ends into the clamps (If something breaks don't worry it gets glued anyway)
 11. `For both ends`: Glue the SMA and clamp together (Add granulate around the clamp &#8594; add glue)
-12. Glue bottom part to the top surface (Add granulate to the splice &#8594; add glue)
-13. Power the patch for actuation (We used 5V and 1A)
+12. Stick the reinforcement into the frame under the surface (See image) and glue it
+13. Glue bottom part to the top surface (Add granulate to the splice &#8594; add glue)
+14. Power the patch for actuation (We used 5V and 1A)
