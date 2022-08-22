@@ -12,7 +12,7 @@ Top            |  Front |   Whole patch | Actuated
 1. Drag the PLA and TPU 3D models into ultimaker editor (NOT the reinforcement, this gets printed seperately!)
 2. Merge them
 3. Scale them (We used 25 mm x 25 mm)
-4. Add 2 HalfCircle clamps on the corners as in the image
+4. Add 2 HalfCircle clamps on the corners as in the image (You must place them by hand, since the models did not belong together)
 5. Print it
 6. 3D print the PLA_Reinforcement
 7. 3D print the bottom part ''BottomPartSquared'' (Same size as in step 3, height can be used as needed)
