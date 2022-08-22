@@ -1,9 +1,9 @@
-#Important
+## Important
 This patch is not 100% evolved. Because the spring is too close to the surface it melts after some actuations. 
 If you want to use this patch try to place a heat resistant layer between the SMA and the surface.
 
 
-#Images of the patch
+## Images of the patch
 
 Top            |  Front |   Whole patch | Actuated
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
