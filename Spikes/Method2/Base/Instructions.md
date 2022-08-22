@@ -12,12 +12,13 @@ Top            |  Front |   Whole patch | Actuated
 1. Drag the PLA and TPU 3D models into ultimaker editor (NOT the reinforcement, this gets printed seperately!)
 2. Merge them
 3. Scale them (We used 25 mm x 25 mm)
-4. Print them
-5. 3D print the PLA_Reinforcement
-6. 3D print the bottom part ''BottomPartSquared'' (Same size as in step 3, height can be used as needed)
-7. Cut **spring** SMA to the desired length (We used 1-2 links of the spring)
-8. `Optional`: Solder 2 jumper wires to the SMA
-9. Glue SMA to the top surface (Put SMA into the hole &#8594; fill with granulate &#8594; add glue)
-10. Glue SMA to bottom part (Put SMA into the hole &#8594; fill with granulate &#8594; add glue)
-11. Glue bottom part to the top surface (Add granulate to the surface &#8594; add glue)
-12. Power the patch for actuation (We used 5V and 1A)
+4. Add 2 HalfCircle clamps on the corners as in the image
+5. Print it
+6. 3D print the PLA_Reinforcement
+7. 3D print the bottom part ''BottomPartSquared'' (Same size as in step 3, height can be used as needed)
+8. Cut **spring** SMA to the desired length (We used 1-2 links of the spring)
+9. `Optional`: Solder 2 jumper wires to the SMA
+10. Stick the SMA ends into the clamps (If something breaks don't worry it gets glued anyway)
+11. `For both ends`: Glue the SMA and clamp together (Add granulate around the clamp &#8594; add glue)
+12. Glue bottom part to the top surface (Add granulate to the splice &#8594; add glue)
+13. Power the patch for actuation (We used 5V and 1A)
