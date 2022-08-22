@@ -1,4 +1,4 @@
-#Images of the patch (Open variant)
+#Images of the patch
 
 Top            |  Front |   Whole patch | Actuated
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
