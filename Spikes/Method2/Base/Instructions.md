@@ -7,10 +7,7 @@ If you want to use this patch try to place a heat resistant layer between the SM
 
 Top            |  Front |   Whole patch | Actuated
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/82590951/185866174-cfb74199-8ff9-423d-9193-f0ce9f94f398.png" width="220" height="200" />|
-<img src="https://user-images.githubusercontent.com/82590951/185867287-31352c41-3bcc-49f2-8f81-afc5897aaf8b.png" width="250" height="200" />|
-<img src="https://user-images.githubusercontent.com/82590951/185866053-a7208b5c-411e-45e0-8e22-30c1c4171f88.png" width="250" height="200" />|
-<img src="https://user-images.githubusercontent.com/82590951/185868423-08c30c73-1b52-4b68-ac68-b1c232174d20.png" width="250" height="200" />
+<img src="TODO" width="220" height="200" />|<img src="TODO" width="250" height="200" />|<img src="TODO" width="250" height="200" />|<img src="TODO" width="250" height="200" />
 
 1. Drag the PLA and TPU 3D models into ultimaker editor (NOT the reinforcement, this gets printed seperately!)
 2. Merge them
