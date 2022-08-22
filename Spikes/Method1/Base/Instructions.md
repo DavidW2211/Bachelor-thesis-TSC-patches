@@ -15,5 +15,5 @@ Top            |  Front |   Whole patch | Actuated
 7. `Optional`: Solder 2 jumper wires to the SMA
 9. Glue SMA to the top surface (Put SMA into the hole &#8594; fill with granulate &#8594; add glue)
 10. Glue SMA to bottom part (Put SMA into the hole &#8594; fill with granulate &#8594; add glue)
-11. Glue bottom part to the top surface (Add granulate to the surrface &#8594; add glue)
+11. Glue bottom part to the top surface (Add granulate to the surface &#8594; add glue)
 12. Power the patch for actuation (We used 5V and 1A)
