@@ -3,7 +3,7 @@
 *Summary*:
 Fabrication instructions &amp; further details concerning the creation of TSC patches.
 
-## Introducion
+## Introduction
 
 Like in the thesis the TSC patches are structured in 3 categories: Spikes, Bumps and Waves.  
 If you don't know what TSC tiles are, please feel free to read my bachelor's thesis first. For the construction of a certain TSC patch we provide instructions and the used 3D models.
