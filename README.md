@@ -5,8 +5,9 @@ Fabrication instructions &amp; further details concerning the creation of TSC pa
 
 ## Introduction
 
+Texture surface change tiles (TSC tiles) are patches, that are able to change their topology. If you want to know more about TSC tiles, please feel free to read my bachelor's thesis.
+In this repository we provide instructions and 3D models, for the construction of a certain TSC patch.
 Like in the thesis the TSC patches are structured in 3 categories: Spikes, Bumps and Waves.  
-If you don't know what TSC tiles are, please feel free to read my bachelor's thesis first. For the construction of a certain TSC patch we provide instructions and the used 3D models.
 Note that the patches consist not only of the top surface, but also a bottom part. Since the bottom parts are reused by many patches and we want to avoid dupllication we put them in the folder *BottomPart-3D-Models* and we state which one is needed for a certain patch. The *Clamps-3D-Models* folder works the same way, they are needed by lots of different patches.
 
 ## Setting Up &amp; Combining 3D Models
@@ -29,6 +30,15 @@ We use the Ultimaker Cura software for printing. There you only need 2 steps:
 
 1. The parts are designed such that it is possible to add the granulate BEFORE the glue. This way the granulate soaks up the glue and it does not stick together parts that shouldn't be connected.
 2. Be careful with the glue, your hands stick immediately to the surface! We recomment using a metal pin or something that doesn't glue immediately for the case that you need to replace or press down something while gluing.
+
+## Soldering information
+
+The fact, that the solder does not stick to the SMA is problematic. That's why we changed the soldering process a little bit:
+
+1. Fold the tip of the jumper wire around the SMA (IMAGE)
+2. Press the jumper wire shut, such that it can't move
+3. Put solder around the jumper wire, such that it encapsulates the SMA.
+4. If the jumper wire can't be moved by hand you are finished.
 
 ## Material Information
 
