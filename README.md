@@ -10,7 +10,7 @@ In this repository we provide instructions and 3D models, for the construction o
 Like in the thesis the TSC patches are structured in 3 categories: Spikes, Bumps and Waves.  
 Note that the patches consist not only of the top surface, but also a bottom part. Since the bottom parts are reused by many patches and we want to avoid dupllication we put them in the folder *BottomPart-3D-Models* and we state which one is needed for a certain patch. The *Clamps-3D-Models* folder works the same way, they are needed by lots of different patches.
 
-Please read the following general fabrication informatin, before you continue with building a TSC.
+Please read the following general fabrication information, before you continue with building a TSC.
 
 ## Setting Up &amp; Combining 3D Models
 
