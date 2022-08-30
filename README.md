@@ -12,7 +12,17 @@ Note that the patches consist not only of the top surface, but also a bottom par
 
 Please read the following general fabrication information, before you continue with building a TSC.
 
-## Setting Up &amp; Combining 3D Models
+## Actuation information
+
+We use shape memory alloys (SMAs) for actuation. SMAs are alloys, that remember their initial form. In the cold state we can deform the SMA and when we heat it, it changes the shape back to its remembered form. For our patches we used 2 types of different SMAs: 
+
+1. Straightening SMAs &#8594; If we heat them, they will form a straight line
+2. Springs &#8594; If we heat them, they contract 
+
+The drawback is that our used SMAs are only unidirecional and therefore we must reverse the actuation by hand (We used them, because they are cheap). But you also have the choice to buy more expensive bidirectional SMAs, to solve this problem. For example, they might expand on heating and shrink when they cool down.
+
+
+## Setting up &amp; Combining 3D Models
 
 We use the Ultimaker Cura software for printing. There you only need 2 steps: 
 1. Select the right material (In the name of each patch) for each part of the patch on the left side 
@@ -41,6 +51,10 @@ The fact, that the solder does not stick to the SMA is problematic. That's why w
 2. Press the jumper wire shut, such that it can't move
 3. Put solder around the jumper wire, such that it encapsulates the SMA.
 4. If the jumper wire can't be moved by hand you are finished.
+
+## Digital circuit
+
+We used an arduino uno to actuate our patches digitally. The only problem with the arduino is, that it gives us max 20mA and we need about 1.2A per actuated patch. THATS BLBLA TODO
 
 ## Material Information
 
