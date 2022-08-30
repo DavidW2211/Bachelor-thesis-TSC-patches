@@ -10,7 +10,7 @@ Top            |  Front |   Whole patch | Actuated
 
 1. Drag the two provided 3D models into ultimaker editor
 2. Merge them
-3. Scale them (We used 25 mm x 25 mm)
+3. Scale them (We used 25 mm x 25 mm; height unscaled)
 4. Print them
 5. 3D print the bottom part ''BottomPartSquared_Hole'' (Same size as in step 3, height can be used as needed)
 6. Cut **straightening** SMA to the desired length (We used 20-25 mm)
