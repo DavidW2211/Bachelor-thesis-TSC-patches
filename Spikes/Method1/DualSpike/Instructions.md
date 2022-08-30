@@ -5,7 +5,7 @@ Whole            |  Single SMA |   Dual SMA | Spring
 <img src="https://user-images.githubusercontent.com/82590951/187466364-247a7cbe-1558-4838-8ffe-39bfc95e8776.png" width="220" height="180" />|<img src="https://user-images.githubusercontent.com/82590951/187466506-e9e7b8e5-4a58-471d-b260-0205ac9a73b0.png" width="250" height="180" />|<img src="https://user-images.githubusercontent.com/82590951/187466640-26772848-5cb3-4d42-a46c-b5b43907b645.png" width="250" height="180" />|<img src="https://user-images.githubusercontent.com/82590951/187465999-df6f7c9f-2072-43af-afe1-ec5fcd5200da.png" width="250" height="180" />
 
 1. Drag the two provided 3D models into ultimaker editor
-2. Select their materials, labeled by the 3D model
+2. Select their materials (Name of the 3D model)
 3. Merge them
 4. Scale them (We used TODO mm x 25 mm; height unscaled)
 5. Print them
