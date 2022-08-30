@@ -9,12 +9,13 @@ Top            |  Front |   Whole patch | Actuated
 ## Instructions
 
 1. Drag the two provided 3D models into ultimaker editor
-2. Merge them
-3. Scale them (We used 25 mm x 25 mm; height unscaled)
-4. Print them
-5. 3D print the bottom part ''BottomPartSquared_Hole'' (Same size as in step 3, height can be used as needed)
-6. Cut **straightening** SMA to the desired length (We used 20-25 mm)
-7. `Optional`: Solder 2 jumper wires to the SMA
+2. Select their materials, labeled by 3D model
+3. Merge them
+4. Scale them (We used 25 mm x 25 mm; height unscaled)
+5. Print them
+6. 3D print the bottom part ''BottomPartSquared_Hole'' (Same size as in step 3, height can be used as needed)
+7. Cut **straightening** SMA to the desired length (We used 20-25 mm)
+8. `Optional`: Solder 2 jumper wires to the SMA
 9. Glue SMA to the top surface (Put SMA into the hole &#8594; fill with granulate &#8594; add glue)
 10. Glue SMA to bottom part (Put SMA into the hole &#8594; fill with granulate &#8594; add glue)
 11. Glue bottom part to the top surface (Add granulate to the splice &#8594; add glue)
