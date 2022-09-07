@@ -11,12 +11,12 @@ Top            |  Front |   Whole patch | Actuated
 4. Merge them
 5. Scale them (We used 25 mm x 25 mm; height unscaled)
 6. Print them
-7. 3D print the bottom part ''BottomPartSquared_Hole'' (Same size as in step 3, height can be used as needed)
+7. 3D print the bottom part ''BottomPartSquared_Hole'' (Same size as in step 3, height unscaled)
 8. Cut **straightening** SMA to the desired length (We used ca. 20 mm)
 9. `Optional`: Solder 2 jumper wires to the SMA
-10. Glue SMA to the top surface (Put SMA into the hole &#8594; fill with granulate &#8594; add glue)
-11. Glue SMA to bottom part (Put SMA into the hole &#8594; fill with granulate &#8594; add glue)
-12. Glue bottom part to the top surface (Add granulate to the splice &#8594; add glue)
+10. Glue SMA to the top surface (Put SMA end 1 into the hole of the top surface &#8594; fill with granulate &#8594; add glue)
+11. Glue SMA to bottom part (Put SMA end 2 into the hole of the bottom part &#8594; fill with granulate &#8594; add glue)
+12. Glue bottom part to the top surface (Add glue &#8594; press top surface to bottom part)
 13. Power the patch for actuation (We used 5V and 1.2A)
 
 # Spike Closed Surface
@@ -31,12 +31,12 @@ Top            |  Front |   Whole patch | Actuated
 3. Merge them
 4. Scale them (We used 25 mm x 25 mm; height unscaled)
 5. Print them
-6. 3D print the bottom part ''BottomPartSquared_Hole'' (Same size as in step 3, height can be used as needed)
+6. 3D print the bottom part ''BottomPartSquared_Hole'' (Same size as in step 3, height unscaled)
 7. Cut **straightening** SMA to the desired length (We used ca. 20 mm)
 8. `Optional`: Solder 2 jumper wires to the SMA
-9. Glue SMA to the top surface (Put SMA into the hole &#8594; fill with granulate &#8594; add glue)
-10. Glue SMA to bottom part (Put SMA into the hole &#8594; fill with granulate &#8594; add glue)
-11. Glue bottom part to the top surface (Add granulate to the splice &#8594; add glue)
+10. Glue SMA to the top surface (Put SMA end 1 into the hole of the top surface &#8594; fill with granulate &#8594; add glue)
+11. Glue SMA to bottom part (Put SMA end 2 into the hole of the bottom part &#8594; fill with granulate &#8594; add glue)
+12. Glue bottom part to the top surface (Add glue &#8594; press top surface to bottom part)
 12. Power the patch for actuation (We used 5V and 1.2A)
 
 # Spike Concave
@@ -53,12 +53,12 @@ Top            |  Front  | Actuated
 3. Merge them
 4. Scale them (We used 25 mm x 25 mm; height unscaled)
 5. Print them
-6. 3D print the bottom part ''BottomPartSquared_Hole'' (Same size as in step 3, height can be used as needed)
+6. 3D print the bottom part ''BottomPartSquared_Hole'' (Same size as in step 3, height unscaled)
 7. Cut **spring** SMA to the desired length (We used 3 links)
 8. `Optional`: Solder 2 jumper wires to the SMA
-9. Glue SMA to the top surface (Put SMA into the hole &#8594; fill with granulate &#8594; add glue)
-10. Glue SMA to bottom part (Put SMA into the hole &#8594; fill with granulate &#8594; add glue)
-11. Glue bottom part to the top surface (Add granulate to the splice &#8594; add glue)
+10. Glue SMA to the top surface (Put SMA end 1 into the hole of the top surface &#8594; fill with granulate &#8594; add glue)
+11. Glue SMA to bottom part (Put SMA end 2 into the hole of the bottom part &#8594; fill with granulate &#8594; add glue)
+12. Glue bottom part to the top surface (Add glue &#8594; press top surface to bottom part)
 12. Power the patch for actuation (We used 5V and 1.2A)
 
 
@@ -77,10 +77,10 @@ Top            |  Front |   Whole patch | Actuated
 3. Merge them
 4. Scale them (We used 25 mm x 25 mm; height unscaled)
 5. Print them
-6. 3D print the bottom part ''BottomPartSquared_Hole'' (Same size as in step 3, height can be used as needed)
+6. 3D print the bottom part ''BottomPartSquared_Hole'' (Same size as in step 3, height unscaled)
 7. Cut **straightening** SMA to the desired length (We used ca. 20 mm)
 8. `Optional`: Solder 2 jumper wires to the SMA
-9. Glue SMA to the top surface (Put SMA into the hole &#8594; fill with granulate &#8594; add glue)
-10. Glue SMA to bottom part (Put SMA into the hole &#8594; fill with granulate &#8594; add glue)
-11. Glue bottom part to the top surface (Add granulate to the splice &#8594; add glue)
+10. Glue SMA to the top surface (Put SMA end 1 into the hole of the top surface &#8594; fill with granulate &#8594; add glue)
+11. Glue SMA to bottom part (Put SMA end 2 into the hole of the bottom part &#8594; fill with granulate &#8594; add glue)
+12. Glue bottom part to the top surface (Add glue &#8594; press top surface to bottom part)
 12. Power the patch for actuation (We used 5V and 1.2A)
