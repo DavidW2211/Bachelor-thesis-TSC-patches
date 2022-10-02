@@ -13,7 +13,7 @@ Top            |  Front |   Whole patch | Actuated
 4. Print them
 5. 3D print the bottom part ''BottomPartSquared_Hole_Centered'' (Same size as in step 3, height can be used as needed)
 6. 3D print the clamp ''Circle'' (unscaled)
-7. Cut **straightening** SMA to the desired length (We used ca. 20 mm)
+7. Cut **straightening** SMA to the desired length (We used approx. 20 mm)
 8. `Optional`: Solder 2 jumper wires to the SMA
 9. Cast silicone into the printed PLA frame
 10. Glue cirlce clamp to bottom center of the silicone surface
