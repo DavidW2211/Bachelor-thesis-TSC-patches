@@ -22,7 +22,7 @@ Bottom            |  Front |   Actuated front | Actuated whole patch
 7. 3D print the PLA_Reinforcement
 8. 3D print the bottom part ''BottomPartSquared'' (Same size as in step 3, height can be used as needed:  
  *The bottom part may have a far smaller height as in the image &#8594; Minimum size = diameter of the spring*)
-9. Add heat resistant layer, e.g., heat resistant tape (Otherwise patch melts)
+9. Add heat resistant layer, e.g., heat resistant tape (Otherwise the patch melts)
 10. Cut **spring** SMA to the desired length (We used 1-2 links of the spring)
 11. `Optional`: Solder 2 jumper wires to the SMA (Difficult for small sizes &#8594; Better for 4cm x 4cm or larger)
 12. Stick the SMA ends into the clamps (If something breaks don't worry it gets glued anyway)
