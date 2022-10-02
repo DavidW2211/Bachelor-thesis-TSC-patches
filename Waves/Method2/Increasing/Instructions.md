@@ -1,32 +1,21 @@
-# Folding Spike Base
-
-## Important
-This patch is not 100% evolved. Because the spring is too close to the surface it melts after some actuations. 
-If you want to use this patch you need to add a heat resistant layer, e.g., tape between the SMA and the 3D print
-
-
+# Increasing Wave
 ## Images of the patch
 
-Bottom            |  Front |   Actuated front | Actuated whole patch
+Up            |  Front |   Whole | Actuated
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/82590951/187470699-6c37bed9-63e5-4a2c-96c5-48a4292edc27.png" width="220" height="200" />|<img src="https://user-images.githubusercontent.com/82590951/187471089-67c02678-7f5c-45fa-b5af-7fa69df8c2ec.png" width="250" height="200" />|<img src="https://user-images.githubusercontent.com/82590951/187470809-792c7e49-da39-4a0b-becd-799f348f21a8.png" width="250" height="200" />|<img src="https://user-images.githubusercontent.com/82590951/187471326-dbd182d8-4211-4000-a6bb-9bf3aa6cdfb4.png" width="250" height="200" />
+<img src="https://user-images.githubusercontent.com/82590951/193464786-b5269fcd-2f33-49f7-96e8-6bc5d68ce39a.png" width="220" height="180" />|<img src="https://user-images.githubusercontent.com/82590951/193464791-7bbf6854-2f7e-4daa-973e-3bc074818a71.png" width="250" height="180" />|<img src="https://user-images.githubusercontent.com/82590951/193464846-f72bd4e3-2f18-4784-85e7-273dec4e4023.png" width="250" height="180" />|<img src="https://user-images.githubusercontent.com/82590951/193464850-f85be135-6f93-43b4-8c48-f3d9520f840b.png" width="250" height="180" />
 
 ## Instructions
 
-1. Drag the PLA and TPU 3D models into ultimaker editor (NOT the reinforcement, this gets printed seperately!)
-2. Select their materials (Name of the 3D model)
-3. Merge them
-4. Scale them (We used 25 mm x 25 mm; height unscaled)
-5. Add 2 HalfCircle clamps on the corners as in the image (You must place them by hand, since the models did not belong together)
-6. Print it
-7. 3D print the PLA_Reinforcement
-8. 3D print the bottom part ''BottomPartSquared'' (Same size as in step 3, height can be used as needed:  
- *The bottom part may have a far smaller height as in the image &#8594; Minimum size = diameter of the spring*)
-9. Add heat resistant layer, e.g., heat resistant tape (Otherwise the patch melts)
-10. Cut **spring** SMA to the desired length (We used 1-2 links of the spring)
-11. `Optional`: Solder 2 jumper wires to the SMA (Difficult for small sizes &#8594; Better for 4cm x 4cm or larger)
-12. Stick the SMA ends into the clamps (If something breaks don't worry it gets glued anyway)
-13. `For both ends`: Glue the SMA and clamp together (Add granulate around the clamp &#8594; add glue)
-14. Stick the reinforcement into the frame under the surface (See image) and glue it
-15. Glue bottom part to the top surface (Add glue → press top surface to bottom part)
-16. Power the patch for actuation (We used 5V and 1.2A)
+1. Drag the TPU 3D model into ultimaker editor (NOT the Frame, this gets printed seperately!)
+2. Select the material (Name of the 3D model)
+3. Scale it (We used 30 mm x 25 mm; height unscaled)
+4. Print it
+5. 3D print the PLA_Frame (Same percentage scale as other part)
+6. 3D print the bottom part ''BottomPartSquared'' (Same size as the frame in step 5, height can be used as needed)
+7. Cut **straightening** SMA to the desired length (We used 35mm)
+8. `Optional`: Solder 2 jumper wires to the SMA
+9. Glue the one end of the TPU sheet onto the frame, but ONLY one edge, the rest should remain movable
+10. `For both ends`: Glue the SMA onto the ends of the bottom side of the TPU (Add granulate around the SMA &#8594; add glue)
+11. Glue bottom part to the top surface (Add glue → press top surface to bottom part)
+12. Power the patch for actuation (We used 5V and 1.2A)
