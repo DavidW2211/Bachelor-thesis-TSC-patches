@@ -19,7 +19,7 @@ Top            |  Front |   Whole patch | Actuated
 10. Align nested circles inside the frame
 11. Cast silicone between the circles and the PLA frame
 12. Glue cirlce clamp to bottom center of the silicone surface
-13. Glue SMA to the top surface (Put SMA end 1 into the hole of the top surface → fill with granulate → add glue)
+13. Glue SMA to the top surface (Put SMA end 1 into the hole of the clamp → fill with granulate → add glue)
 14. Glue SMA to bottom part (Put SMA end 2 into the hole of the bottom part → fill with granulate → add glue)
 15. Glue bottom part to the top surface (Add glue &#8594; press top surface to bottom part)
 16. Power the patch for actuation (We used 5V and 1.2A)
