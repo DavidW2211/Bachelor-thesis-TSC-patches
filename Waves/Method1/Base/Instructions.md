@@ -16,7 +16,7 @@ Bottom            |  Up |   Front | Actuated
 7. 3D print the PLA_Reinforcement (Same percentage scale as other parts)
 8. 3D print the bottom part ''BottomPartSquared'' (Same size as in step 4, height can be used as needed:  
  *The bottom part may have a far smaller height as in the image &#8594; Minimum size = diameter of the spring*)
-9. Cut **spring** SMA to the desired length (We used 1-2 links of the spring)
+9. Cut **spring** SMA to the desired length (We used 2-3 links of the spring)
 10. `Optional`: Solder 2 jumper wires to the SMA
 11. Stick the SMA ends into the clamps (If something breaks don't worry it gets glued anyway)
 12. `For both ends`: Glue the SMA and clamp together (Add granulate around the clamp &#8594; add glue)
