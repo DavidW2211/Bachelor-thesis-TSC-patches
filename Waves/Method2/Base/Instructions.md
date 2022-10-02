@@ -1,7 +1,7 @@
 # Expansion Wave Base
 ## Images of the patch
 
-Up            |  Top |   Front | Actuated
+Up            |  Front |   Whole | Actuated
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/82590951/193464484-32484bbe-4d69-4ff9-86e5-1cecb96abbba.png" width="220" height="180" />|<img src="https://user-images.githubusercontent.com/82590951/193464496-f67251c8-b34f-451a-8e86-9e8a3ade2e08.png" width="250" height="180" />|<img src="https://user-images.githubusercontent.com/82590951/193464506-4223a37d-cb4b-4e1a-89d7-c2330f6dea3c.png" width="250" height="180" />|<img src="https://user-images.githubusercontent.com/82590951/193464517-f00f8ede-03ef-4730-af3d-42f74e371966.png" width="250" height="180" />
 
