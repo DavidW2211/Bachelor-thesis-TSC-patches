@@ -9,7 +9,7 @@ Top            |  Front |   Whole patch | Actuated
 ## Instructions
 
 1. Drag the provided 3D models into ultimaker editor
-2. Select their materials (Name of the 3D model)
+2. Select their materials (Name of the 3D models)
 3. Merge them
 4. Scale them (We used 25 mm x 25 mm; height unscaled)
 5. Print them
