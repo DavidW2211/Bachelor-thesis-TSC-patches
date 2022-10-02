@@ -11,10 +11,10 @@ Whole            |  Single SMA |   Dual SMA | Spring
 3. Merge them
 4. Scale them (We used 35 mm x 25 mm; height unscaled)
 5. Print them
-6. 3D print the bottom part ''BottomPartRect_Hole'' (Same size as in step 3, height can be adjusted if needed)
+6. 3D print the bottom part ''BottomPartRect_Hole'' (Same size as in step 4, height can be adjusted if needed)
 7. `Optional`: Do steps 7-11 twice and insert an SMA on each end of the spike, such that we can decide which side we pull up and which down (Bidirectional).
 8. `Decisional`: Choose **straightening** or **spring** SMA for actuation
-9. Cut SMA to the desired length (We used ca. 20 mm/ 3 links)
+9. Cut SMA to the desired length (We used approx. 20 mm/ 3 links)
 10. `Optional`: Solder 2 jumper wires to the SMA
 11. Glue SMA to the top surface (Put SMA end 1 into the hole of the top surface → fill with granulate → add glue)
 12. Glue SMA to bottom part (Put SMA end 2 into the hole of the bottom part → fill with granulate → add glue)
