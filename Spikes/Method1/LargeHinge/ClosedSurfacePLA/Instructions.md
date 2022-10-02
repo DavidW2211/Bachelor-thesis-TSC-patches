@@ -12,8 +12,8 @@ Top            |  Front |   Whole patch | Actuated
 3. Merge them
 4. Scale them (We used 25 mm x 25 mm; height unscaled)
 5. Print them
-6. 3D print the bottom part ''BottomPartSquared_Hole'' (Same size as in step 3, height unscaled)
-7. Cut **straightening** SMA to the desired length (We used ca. 20 mm)
+6. 3D print the bottom part ''BottomPartSquared_Hole'' (Same size as in step 4, height unscaled)
+7. Cut **straightening** SMA to the desired length (We used approx. 20 mm)
 8. `Optional`: Solder 2 jumper wires to the SMA
 10. Glue SMA to the top surface (Put SMA end 1 into the hole of the top surface &#8594; fill with granulate &#8594; add glue)
 11. Glue SMA to bottom part (Put SMA end 2 into the hole of the bottom part &#8594; fill with granulate &#8594; add glue)
