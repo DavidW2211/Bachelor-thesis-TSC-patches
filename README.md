@@ -5,7 +5,7 @@ Fabrication instructions &amp; further details concerning the creation of TSC pa
 
 ## Introduction
 
-Texture surface change tiles (TSC tiles) are patches, that are able to change their topology. If you want to know more about TSC tiles, please feel free to read my bachelor's thesis.
+Texture surface change tiles (TSC tiles) are patches, that are able to change their topology. If you want to know more about TSC tiles, please feel free to read my bachelor's thesis, available in the repository.
 In this repository we provide instructions and 3D models, for the construction of a certain TSC patch.
 Like in the thesis the TSC patches are structured in 3 categories: Spikes, Bumps and Waves.  
 Note that the patches consist not only of the top surface, but also a bottom part. Since the bottom parts are reused by many patches and we want to avoid dupllication we put them in the folder *BottomPart-3D-Models* and we state which one is needed for a certain patch. The *Clamps-3D-Models* folder works the same way, they are needed by lots of different patches.
@@ -22,21 +22,16 @@ We use shape memory alloys (SMAs) for actuation. SMAs are alloys, that remember 
 The drawback is that our used SMAs are only unidirecional and therefore we must reverse the actuation by hand (We used them, because they are cheap). But you also have the choice to buy more expensive bidirectional SMAs, to solve this problem. For example, they might expand on heating and shrink when they cool down.
 
 
-## Setting up &amp; Combining 3D Models
+## Printing information
 
-We use the Ultimaker Cura software for printing. There you only need 2 steps: 
+We use the Ultimaker Cura software for printing. In the following, we list the steps for 3D printing: 
 1. Select the right material (In the name of each patch) for each part of the patch on the left side 
 <img src="https://user-images.githubusercontent.com/82590951/185628026-55f0e1e7-80df-4941-8b28-101c5e1660b2.png" width="300" height="200" />
 2. Select all patches that need to be merged &#8594; Right click and select merge models. They should snap together.
 <img src="https://user-images.githubusercontent.com/82590951/185628018-71d602d0-4283-4541-836d-f150d90c92a8.png" width="400" height="200" />
 3. 3D print the structure
 
-
-## Print information
-
-1. The top surface parts and the corresponding bottom part get printed seperately and need to be glued together
-2. We recomment to use a TPU brim with the brim ALSO on the inside, because the PLA sticks more to the blue tape than TPU and this reduces breaking parts
-3. Let the print cool enough, otherwise the PLA might deform while removing the print
+Furthermore, we recommend to use a TPU brim with the brim ALSO on the inside, because the PLA sticks more to the blue tape than TPU and this reduces breaking parts
 
 ## Glueing information
 
@@ -47,14 +42,21 @@ We use the Ultimaker Cura software for printing. There you only need 2 steps:
 
 The fact, that the solder does not stick to the SMA is problematic. That's why we changed the soldering process a little bit:
 
-1. Fold the tip of the jumper wire around the SMA (IMAGE)
-2. Press the jumper wire shut, such that it can't move
-3. Put solder around the jumper wire, such that it encapsulates the SMA.
+1. Fold the tip of the jumper wire around the SMA
+<img src="https://user-images.githubusercontent.com/82590951/193465590-f9385c7f-2e9b-4cb0-9c00-ee010f6ae063.png" width="200" height="200" />
+2. Press the jumper wire shut, such that it can't move 
+<img src="https://user-images.githubusercontent.com/82590951/193465647-a2e3660d-1f03-41e1-b0e3-5305cd50da77.png" width="200" height="200" />
+3. Put solder around the jumper wire, such that it encapsulates the SMA 
+<img src="https://user-images.githubusercontent.com/82590951/193465651-c5896d87-fd00-464c-929a-6d07e6a64ebb.png" width="200" height="200" />
 4. If the jumper wire can't be moved by hand you are finished.
 
 ## Digital circuit
 
-We used an arduino uno to actuate our patches digitally. The only problem with the arduino is, that it gives us max 20mA and we need about 1.2A per actuated patch. THATS BLBLA TODO
+We used an arduino uno to actuate our patches digitally. The only problem with the arduino is, that it gives us max 20mA and we need about 1.2A per actuated patch. Therefore, we must use an external power source, e.g., a battery. Moreover, we use a MOSFET as a gate to control the current flow and actuate the TSC tiles through code of the arduino. The circuit diagram can be seen in the following: 
+
+![grafik](https://user-images.githubusercontent.com/82590951/193465931-30f832bd-b579-43ca-8350-a031bf14e275.png)
+
+Instead of the 5V pin, the MOSFET should be opened by setting a digital pin to HIGH.
 
 ## Material Information
 
