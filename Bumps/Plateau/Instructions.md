@@ -12,9 +12,9 @@ Top            |  Front |   Whole patch | Actuated
 3. Merge them
 4. Scale them (We used 25 mm x 25 mm; height unscaled)
 5. Print them
-6. 3D print the bottom part ''BottomPartSquared_Hole_Centered'' (Same size as in step 3, height can be used as needed)
+6. 3D print the bottom part ''BottomPartSquared_Hole_Centered'' (Same size as in step 4, height can be used as needed)
 7. 3D print the clamp ''Circle'' (unscaled)
-8. Cut **straightening** SMA to the desired length (We used ca. 20 mm)
+8. Cut **straightening** SMA to the desired length (We used approx. 20 mm)
 9. `Optional`: Solder 2 jumper wires to the SMA
 10. Align plateau infill inside the frame
 11. Cast silicone between the infill and the PLA frame
