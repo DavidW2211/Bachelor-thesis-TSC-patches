@@ -14,7 +14,7 @@ Up            |  Up Actuated |   Front | Front Actuated
 6. Print them 
 7. `Optional`: If cuts in the 3D print are not clear (e.g., printed together), then use a cutter to open them
 8. 3D print the PLA_Reinforcement (Same percentage scale as other parts)
-9. 3D print the bottom part ''BottomPartSquared'' (Same size as in step 3, height can be used as needed:  
+9. 3D print the bottom part ''BottomPartSquared'' (Same size as in step 4, height can be used as needed:  
  *The bottom part may have a far smaller height as in the image &#8594; Minimum size = diameter of the spring*)
 9. Cut **spring** SMA to the desired length (We used 9-10 links of the spring)
 10. `Optional`: Solder 2 jumper wires to the SMA
