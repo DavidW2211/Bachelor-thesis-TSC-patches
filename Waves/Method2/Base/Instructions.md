@@ -14,7 +14,7 @@ Up            |  Front |   Whole | Actuated
 6. Print them
 7. 3D print the PLA_Frame (Same percentage scale as other parts)
 8. 3D print the bottom part ''BottomPartSquared'' (Same size as the frame in step 7, height can be used as needed)
-9. Cut **straightening** SMA to the desired length (We used 35mm)
+9. Cut **straightening** SMA to the desired length (We used approx. 35mm)
 10. `Optional`: Solder 2 jumper wires to the SMA
 11. Glue the PLA end of the TPU sheet onto the frame, but ONLY the PLA part, the rest should be movable
 12. `For both ends`: Glue the SMA onto the ends of the bottom side of the TPU (Add granulate around the SMA &#8594; add glue)
