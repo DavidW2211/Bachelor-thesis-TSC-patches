@@ -1,9 +1,11 @@
-# Spike Closed Surface
+# Spike Closed Surface PLA
 ## Images of the patch
 
 Top            |  Front |   Whole patch | Actuated
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/82590951/187468872-04bd1a10-7b72-4ce1-a562-c8b97fa70898.png" width="220" height="200" />|<img src="https://user-images.githubusercontent.com/82590951/187468959-43c142a5-7bd8-4c01-83c1-9e7a466450bc.png" width="250" height="200" />|<img src="https://user-images.githubusercontent.com/82590951/187469105-07b834bb-01bd-4c49-8f60-aab2c523000d.png" width="250" height="200" />|<img src="https://user-images.githubusercontent.com/82590951/187469207-c013d6b8-5ae0-4b35-8a93-8d7fb9b8076d.png" width="250" height="200" />
+
+## Instructions
 
 1. Drag the two provided 3D models into ultimaker editor
 2. Select their materials (Name of the 3D model)
