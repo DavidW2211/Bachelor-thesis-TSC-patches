@@ -17,7 +17,7 @@ Top            |  Front |   Whole patch | Actuated
 8. `Optional`: Solder 2 jumper wires to the SMA
 9. Cast silicone into the printed PLA frame
 10. Glue cirlce clamp to bottom center of the silicone surface
-11. Glue SMA to the top surface (Put SMA into the hole of the clamp &#8594; fill with granulate &#8594; add glue)
-12. Glue SMA to bottom part (Put SMA into the hole &#8594; fill with granulate &#8594; add glue)
+11. Glue SMA to the top surface (Put SMA end 1 into the hole of the top surface → fill with granulate → add glue)
+12. Glue SMA to bottom part (Put SMA end 2 into the hole of the bottom part → fill with granulate → add glue)
 12. Glue bottom part to the top surface (Add glue &#8594; press top surface to bottom part)
 14. Power the patch for actuation (We used 5V and 1.2A)
