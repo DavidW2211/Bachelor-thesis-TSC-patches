@@ -1,6 +1,4 @@
-Note that this patch can be constructed with an open and closed surface, just use the denoted 3D models.
-
-## Images of the patch (Open variant)
+## Images of the patch
 
 Top            |  Front |   Whole patch | Actuated
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
