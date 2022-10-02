@@ -9,7 +9,7 @@ Whole            |  Single SMA |   Dual SMA | Spring
 1. Drag the two provided 3D models into ultimaker editor
 2. Select their materials (Name of the 3D model)
 3. Merge them
-4. Scale them (We used TODO mm x 25 mm; height unscaled)
+4. Scale them (We used 35 mm x 25 mm; height unscaled)
 5. Print them
 6. 3D print the bottom part ''BottomPartRect_Hole'' (Same size as in step 3, height can be adjusted if needed)
 7. `Optional`: Do steps 7-11 twice and insert an SMA on each end of the spike, such that we can decide which side we pull up and which down (Bidirectional).
