@@ -24,16 +24,17 @@ The drawback is that our used SMAs are only unidirecional and therefore we must 
 
 ## Printing information
 
-We use the Ultimaker Cura software for printing. In the following, we list the steps for 3D printing: 
-1. Select the right material (In the name of each patch) for each part of the patch on the left side 
+We use the Ultimaker Cura software for printing. In the following, we list the steps for multimaterial 3D printing: 
+1. Select the right material (Will be stated in the instruction steps) for each part of the patch on the left side 
 <img src="https://user-images.githubusercontent.com/82590951/185628026-55f0e1e7-80df-4941-8b28-101c5e1660b2.png" width="300" height="200" />
 2. Select all patches that need to be merged &#8594; Right click and select merge models. They should snap together.
 <img src="https://user-images.githubusercontent.com/82590951/185628018-71d602d0-4283-4541-836d-f150d90c92a8.png" width="400" height="200" />
-3. 3D print the structure
+3. 3D print the structure 
 
 Furthermore, we recommend to use a TPU brim with the brim ALSO on the inside, because the PLA sticks more to the blue tape than TPU and this reduces breaking parts
 
 ## Glueing information
+We use industrial glue in combination with granulate to glue the 3D printed parts and the SMAs together:
 
 1. The parts are designed such that it is possible to add the granulate BEFORE the glue. This way the granulate soaks up the glue and it does not stick together parts that shouldn't be connected.
 2. Be careful with the glue, your hands stick immediately to the surface! We recomment using a metal pin or something that doesn't glue immediately for the case that you need to replace or press down something while gluing.
@@ -42,9 +43,9 @@ Furthermore, we recommend to use a TPU brim with the brim ALSO on the inside, be
 
 The fact, that the solder does not stick to the SMA is problematic. That's why we changed the soldering process a little bit:
 
-1. Fold the tip of the jumper wire around the SMA
+1. Fold the tip of the jumper wire
 <img src="https://user-images.githubusercontent.com/82590951/193465590-f9385c7f-2e9b-4cb0-9c00-ee010f6ae063.png" width="200" height="200" />
-2. Press the jumper wire shut, such that it can't move 
+2. Put the SMA between the jumper wire and press the jumper wire shut, such that the SMA can't move 
 <img src="https://user-images.githubusercontent.com/82590951/193465647-a2e3660d-1f03-41e1-b0e3-5305cd50da77.png" width="200" height="200" />
 3. Put solder around the jumper wire, such that it encapsulates the SMA 
 <img src="https://user-images.githubusercontent.com/82590951/193465651-c5896d87-fd00-464c-929a-6d07e6a64ebb.png" width="200" height="200" />
