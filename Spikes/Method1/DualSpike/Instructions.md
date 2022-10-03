@@ -1,3 +1,5 @@
+# Double Spike
+
 ## Images of the patch
 
 Whole            |  Single SMA |   Dual SMA | Spring
