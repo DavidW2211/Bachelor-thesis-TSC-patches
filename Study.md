@@ -1,9 +1,11 @@
-# Spike Open Surface
+# Large Hinge Open Surface
 ## Images of the patch
 
 Top            |  Front |   Whole patch | Actuated
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/82590951/185893428-f90ce344-990a-48b0-97d9-71563989abcb.png" width="220" height="200" />|<img src="https://user-images.githubusercontent.com/82590951/185895438-e411a3e8-c98c-4842-975d-e3d49620bfc0.png" width="250" height="200" />|<img src="https://user-images.githubusercontent.com/82590951/185895590-b875b7be-7cce-4b10-abbf-0c0c0e1da1e1.png" width="250" height="200" />|<img src="https://user-images.githubusercontent.com/82590951/185893643-7a9bb58a-ccf1-48cf-bfb1-3628bb5d6b82.png" width="250" height="200" />
+
+## Instructions
 
 1. Drag the two provided 3D models into ultimaker editor
 2. Select their materials (Name of the 3D model)
