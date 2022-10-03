@@ -3,6 +3,17 @@
 *Summary*:
 Fabrication instructions &amp; further details concerning the creation of TSC patches.
 
+- [Bachelor-thesis-TSC-patches](#bachelor-thesis-tsc-patches)
+  * [Introduction](#introduction)
+  * [Actuation information](#actuation-information)
+  * [Printing information](#printing-information)
+  * [Glueing information](#glueing-information)
+  * [Soldering information](#soldering-information)
+  * [Digital circuit](#digital-circuit)
+  * [Database](#database)
+  * [Material Information](#material-information)
+
+
 ## Introduction
 
 Texture surface change tiles (TSC tiles) are patches, that are able to change their topology. If you want to know more about TSC tiles, please feel free to read my bachelor's thesis, available in the repository.
