@@ -58,6 +58,13 @@ We used an arduino uno to actuate our patches digitally. The only problem with t
 
 Instead of the 5V pin, the MOSFET should be opened by setting a digital pin to HIGH.
 
+## Database
+
+To give the user a better overview of the toolbox, we implemented a database that is in the folder ./TSC_Tiles_Database/Builds/TSC_Tiles_Database.exe
+The created database helps users to find specific patches that fit their needs. Therefore, this database contains a list of all patches that are part of the toolbox. There are 3 different options for how to filter these patches. First, one can set the introspective quality ratings to a specific value and only patches that have the same or higher value get displayed in the list. Secondly, there is a list of toggles for all classification criteria. Initially, all toggles are ticked. The list works like the following. If a specific classification criterion is deselected, then every patch that includes this excluded criterion does not get displayed in the list. For instance, if one wants to only search for spikes, then one needs to uncheck the bump and wave categories. Lastly, one can also search for patches directly by name. The search checks whether the entered pattern occurs somewhere in a patch name. This search is also case insensitive. We also added the option to reset all criteria. This sets all slider values to very bad, ticks all classification boxes and clears the pattern search input field.
+The second part of the database contains details for each patch. If we click on a certain patch in the overview list then we open the detail page for this patch. This detail page consists of images of the patch, a clickable link to the page of this patch in this GitHub repository and the introspective quality ratings, as well as the classification list.
+
+
 ## Material Information
 
 For all the patches we used following resources:   
