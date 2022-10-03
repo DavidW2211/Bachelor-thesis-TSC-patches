@@ -3180,8 +3180,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 179056444}
   m_HandleRect: {fileID: 179056442}
   m_Direction: 2
-  m_Value: 1
-  m_Size: 0.5534468
+  m_Value: 0.9999999
+  m_Size: 0.7386665
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -12258,7 +12258,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fabrEase: 2
-  fabrSpeed: 5
+  fabrSpeed: 3
   effectSize: 5
   scalability: 2
   robustness: 5
@@ -13467,7 +13467,7 @@ MonoBehaviour:
   fabrSpeed: 3
   effectSize: 5
   scalability: 3
-  robustness: 3
+  robustness: 2
   surfaceTopo: 4
   protoName: Double Curved Wave
   b_Spike: 0
@@ -15866,7 +15866,7 @@ MonoBehaviour:
   fabrSpeed: 3
   effectSize: 5
   scalability: 3
-  robustness: 3
+  robustness: 2
   surfaceTopo: 4
   protoName: Curved Wave
   b_Spike: 0
@@ -20114,7 +20114,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: 4.4468}
+  m_AnchoredPosition: {x: 0, y: 4.4468384}
   m_SizeDelta: {x: 1870, y: -8.8936}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1094710745
@@ -25861,7 +25861,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fabrEase: 2
-  fabrSpeed: 5
+  fabrSpeed: 3
   effectSize: 4
   scalability: 2
   robustness: 5
@@ -29430,7 +29430,7 @@ MonoBehaviour:
   fabrSpeed: 3
   effectSize: 5
   scalability: 3
-  robustness: 3
+  robustness: 2
   surfaceTopo: 4
   protoName: Kink Wave
   b_Spike: 0
